@@ -1,0 +1,204 @@
+/* AmericanDocs - Primary Sources for American History */
+/* Inspired by EuroDocs (eudocs.lib.byu.edu) */
+
+:root {
+  --navy: #1a2744;
+  --dark-red: #8b1a1a;
+  --cream: #fdfaf3;
+  --gold: #c9a227;
+  --text: #2c2c2c;
+  --link: #1a4a8a;
+  --link-hover: #8b1a1a;
+  --border: #d4cfc0;
+  --section-bg: #f7f4ec;
+  --header-gradient-start: #1a2744;
+  --header-gradient-end: #2a3f6a;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--text);
+  background: var(--cream);
+  line-height: 1.7;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+header {
+  background: linear-gradient(135deg, var(--header-gradient-start), var(--header-gradient-end));
+  color: white;
+  padding: 30px 40px;
+  margin: 0 -20px 30px -20px;
+  border-bottom: 4px solid var(--gold);
+}
+
+header h1 {
+  font-family: "Palatino Linotype", Palatino, Georgia, serif;
+  font-size: 2.2em;
+  font-weight: normal;
+  letter-spacing: 1px;
+  margin-bottom: 6px;
+}
+
+header .subtitle {
+  font-size: 1.05em;
+  font-style: italic;
+  opacity: 0.85;
+}
+
+/* Navigation */
+nav {
+  background: var(--section-bg);
+  border: 1px solid var(--border);
+  padding: 15px 25px;
+  margin-bottom: 30px;
+  font-size: 0.95em;
+}
+
+nav a {
+  color: var(--link);
+  text-decoration: none;
+  margin-right: 8px;
+}
+
+nav a:hover { color: var(--link-hover); text-decoration: underline; }
+nav .sep { color: #999; margin: 0 4px; }
+
+/* Main content */
+h2 {
+  font-family: "Palatino Linotype", Palatino, Georgia, serif;
+  color: var(--navy);
+  font-size: 1.5em;
+  font-weight: normal;
+  border-bottom: 2px solid var(--gold);
+  padding-bottom: 6px;
+  margin: 35px 0 18px 0;
+}
+
+h3 {
+  color: var(--dark-red);
+  font-size: 1.15em;
+  margin: 22px 0 10px 0;
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Source lists */
+ul.sources {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+ul.sources li {
+  padding: 6px 0 6px 18px;
+  position: relative;
+  border-bottom: 1px dotted var(--border);
+}
+
+ul.sources li:last-child { border-bottom: none; }
+
+ul.sources li::before {
+  content: "\25B8";
+  position: absolute;
+  left: 0;
+  color: var(--gold);
+  font-size: 0.85em;
+  top: 8px;
+}
+
+ul.sources a {
+  color: var(--link);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+ul.sources a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+ul.sources .desc {
+  display: block;
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 2px;
+  padding-left: 0;
+}
+
+/* State index grid */
+.state-grid {
+  column-count: 3;
+  column-gap: 30px;
+  margin: 15px 0 30px 0;
+}
+
+.state-grid a {
+  display: block;
+  color: var(--link);
+  text-decoration: none;
+  padding: 3px 0;
+  font-size: 0.95em;
+}
+
+.state-grid a:hover { color: var(--link-hover); text-decoration: underline; }
+.state-grid a.active { font-weight: bold; }
+.state-grid a.placeholder { color: #999; font-style: italic; }
+
+/* Supranational links */
+.supra-section {
+  background: var(--section-bg);
+  border: 1px solid var(--border);
+  padding: 18px 25px;
+  margin: 15px 0;
+}
+
+.supra-section h3 {
+  margin-top: 0;
+  color: var(--navy);
+  font-style: normal;
+}
+
+.supra-section a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.supra-section a:hover { color: var(--link-hover); text-decoration: underline; }
+
+/* Footer */
+footer {
+  margin-top: 50px;
+  padding: 20px 0;
+  border-top: 2px solid var(--gold);
+  font-size: 0.85em;
+  color: #777;
+  text-align: center;
+}
+
+footer a { color: var(--link); text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+
+/* Note / callout boxes */
+.note {
+  background: #fffde6;
+  border-left: 4px solid var(--gold);
+  padding: 12px 18px;
+  margin: 20px 0;
+  font-size: 0.93em;
+}
+
+/* Responsive */
+@media (max-width: 700px) {
+  .state-grid { column-count: 2; }
+  header { padding: 20px 25px; }
+  header h1 { font-size: 1.6em; }
+}
+
+@media (max-width: 450px) {
+  .state-grid { column-count: 1; }
+}
