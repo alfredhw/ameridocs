@@ -1,0 +1,130 @@
+page,broken_url,status,reason,suggested_replacement,notes
+alaska.html,https://guides.loc.gov/alaska-purchase,404,Not Found,https://guides.loc.gov/alaska-treaty/introduction,Push
+american-samoa.html,https://www.amsamoa.edu/institution/ssi.html,404,Not Found,https://www.amsamoa.edu/Departments_Offices/Divisions/ssi.html,Push
+arkansas.html,https://digitalheritage.arkansas.gov/,N/A,Connection failed,https://ar-digital.contentdm.oclc.org/,Push
+arkansas.html,https://digitalheritage.arkansas.gov/brough-scrapbooks/,N/A,Connection failed,https://ar-digital.contentdm.oclc.org/digital/collection/manuscripts/id/269/rec/3,Move to Elaine Race Massacre section
+arkansas.html,https://digitalheritage.arkansas.gov/exhibits-online-arkansas-territory/index.html,N/A,Connection failed,https://ar-digital.contentdm.oclc.org/digital/search/searchterm/territorial%20and%20early%20arkansas%20records!territory/field/relati!all/mode/exact!all/conn/and!all,Push
+arkansas.html,https://digitalheritage.arkansas.gov/maps-collection/,N/A,Connection failed,https://ar-digital.contentdm.oclc.org/digital/collection/maps,Push
+arkansas.html,https://digitalheritage.arkansas.gov/territory-general-assembly/,N/A,Connection failed,https://ar-digital.contentdm.oclc.org/digital/search/searchterm/arkansas%20territory%20general%20assembly%20records%20(ms.000959)!territorial%20and%20early%20arkansas%20records!territory/field/relati!relati!all/mode/exact!exact!all/conn/and!and!all,Push
+arkansas.html,https://www.nps.gov/articles/the-battle-of-prairie-grove-civilian-recollections-of-the-civil-war-teaching-with-primary-sources.htm,404,Not Found,https://www.nps.gov/articles/the-battle-of-prairie-grove-civilian-recollections-of-the-civil-war-teaching-with-historic-places.htm,Push
+asian-american.html,https://library.berkeley.edu/ea/,N/A,Timeout,https://www.lib.berkeley.edu/libraries/east-asian-library,Push
+california.html,https://libguides.calstatela.edu/c.php?g=1066577&p=5504356,404,Not Found,https://libguides.calstatela.edu/c.php?g=767223&p=5504356#s-lg-box-17923543,Push
+california.html,https://minerva.sos.ca.gov/,N/A,Connection failed,https://www.sos.ca.gov/archives/,Push
+colorado.html,https://amache.org/,N/A,Client error,https://www.nps.gov/amch/index.htm,No change needed
+connecticut.html,https://libguides.ctstatelibrary.org/historyday/industry,404,Not Found,,Delete
+connecticut.html,https://library.ccsu.edu/dighistFall16/exhibits/show/connecticut-manufacturing-duri,404,Not Found,,Delete
+connecticut.html,https://oll.libertyfund.org/pages/1639-fundamental-orders-of-connecticut,404,Not Found,https://avalon.law.yale.edu/17th_century/order.asp,Push
+delaware.html,https://archives.delaware.gov/ratification-document/,404,Not Found,https://archives.delaware.gov/,Delete
+economic-history.html,https://ustr.gov/about-us/policy-offices/press-office/ustr-archives,404,Not Found,https://ustr.gov/about-us/policy-offices/press-office/-ustr-archives,Push
+entertainment-sports.html,https://chautauqua.cplorg.org/,N/A,Connection failed,,Delete
+entertainment-sports.html,https://collection.baseballhall.org/,N/A,Timeout,https://baseballhall.org/discover/digital-collection,Delete
+entertainment-sports.html,https://library.louisville.edu/archives/ali,404,Not Found,https://library.louisville.edu/ali/home,Push
+entertainment-sports.html,https://rfrn.org/archive,404,Not Found,,Delete
+entertainment-sports.html,https://vaudevillearchiveproject.org/,N/A,Connection failed,https://vaudeville.library.arizona.edu/,"Push, now ""American Vaudeville Museum Archive"""
+entertainment-sports.html,https://www.circushistory.org/public/research.php,404,Not Found,,Delete
+entertainment-sports.html,https://www.loc.gov/collections/american-variety-stage-vaudeville-and-popular-entertainment-1870-to-1920/,404,Standard 40x,https://www.loc.gov/collections/variety-stage-sound-recordings-and-motion-pictures/articles-and-essays/about-variety-stage-motion-pictures/,Push
+entertainment-sports.html,https://www.loc.gov/collections/early-motion-pictures-1897-to-1920/,404,Standard 40x,https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/about-this-collection/,"Push, now ""Edison Company Motion Pictures"""
+entertainment-sports.html,https://www.loc.gov/collections/historic-american-sheet-music/,404,Standard 40x,https://www.loc.gov/collections/historic-sheet-music/about-this-collection/,"Push: now ""Historic Sheet Music Collection 1800 to 1922"""
+entertainment-sports.html,https://www.loc.gov/collections/world-fairs-at-the-library-of-congress/,404,Standard 40x,,Delete
+federal.html,https://digital.library.okstate.edu/kappler/,N/A,Connection failed,https://dc.library.okstate.edu/digital/collection/kapplers,Push
+federal.html,https://www.archives.gov/research/cartographic-and-architectural-records,404,Not Found,https://www.archives.gov/research/cartographic,Push
+federal.html,https://www.loc.gov/collections/born-in-slavery-slave-narratives-from-the-federal-writers-project-1936-to-1938/,404,Standard 40x,https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/,Push
+federal.html,https://www.loc.gov/collections/maps/,404,Standard 40x,https://www.loc.gov/maps/collections/,Push
+federal.html,https://www.loc.gov/collections/selected-civil-war-photographs/,404,Standard 40x,https://www.loc.gov/pictures/collection/cwp/,Push
+florida.html,http://staugustine.uflib.ufl.edu/,N/A,Connection failed,https://ufdc.ufl.edu/collections/hsa1,Push
+florida.html,https://merrick.library.miami.edu/digitalprojects/chc.php,N/A,Timeout,https://www.library.miami.edu/chc/,Push
+foodways.html,https://archive.org/details/culinary-institute-of-america-702,404,Not Found,https://culinaryartsmuseum.pastperfectonline.com/Archive,Push
+foodways.html,https://folklife.si.edu/archive,404,Not Found,https://guides.loc.gov/foodways-folklife,Push
+foodways.html,https://whatamericaate.org/,N/A,Connection failed,,Delete
+foodways.html,https://www.archives.gov/research/military/ww2/ration-books,404,Not Found,https://www.archives.gov/education/lessons/ration-books,Delete
+foodways.html,https://www.lib.umich.edu/collections/collecting-areas/special-collections-research-center/janice-bluestein-longone-culinary,404,Not Found,https://www.lib.umich.edu/collections/collecting-areas/special-collections/janice-bluestein-longone-culinary-archive,Push
+foodways.html,https://www.nal.usda.gov/collections/exhibits/george-washington-carver,N/A,Client error,https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/manuscript-collections/george-washington-carver,Push
+foodways.html,https://www.nal.usda.gov/collections/exhibits/three-sisters,N/A,Client error,https://www.nal.usda.gov/collections/stories/three-sisters,Push
+gender-sexuality.html,https://exhibits.lib.buffalo.edu/s/gayliberation/page/welcome,N/A,Connection failed,https://digital.lib.buffalo.edu/items/browse?collection=14,Push
+gender-sexuality.html,https://transcollectionsproject.org/,N/A,Connection failed,,Delete
+gender-sexuality.html,https://www.aidsmemorial.org/interactive-quilt,404,Not Found,https://www.aidsmemorial.org/quilt,Push
+gender-sexuality.html,https://www.glbthistory.org/screaming-queens,404,Not Found,https://calisphere.org/collections/28070/,Push
+gender-sexuality.html,https://www.loc.gov/collections/aids-education-posters/,404,Standard 40x,,Delete
+gender-sexuality.html,https://www.loc.gov/collections/independent-voices/,404,Standard 40x,https://www.jstor.org/site/reveal-digital/independent-voices/?so=item_title_str_asc&searchkey=1771693324377,"Now hosted at JSTOR, not Library of Congress"
+gender-sexuality.html,https://www.nps.gov/ston/learn/historyculture/index.htm,404,Not Found,https://www.nps.gov/places/stonewall-national-monument.htm,Delete
+gender-sexuality.html,https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf,404,Not Found,https://www.oyez.org/cases/2014/14-556,Switch to Oyez site (research this)
+georgia.html,https://www.archives.gov/milestone-documents/indian-removal-act,404,Not Found,https://americanindian.si.edu/nk360/removal-muscogee/transcription-removal-act.html,Switch to NMAI site (research this)
+great-plains.html,https://www.kshs.org/p/cattle-trails-of-kansas/11643,404,Not Found,,Delete
+hawaii.html,http://punawaiola.org/,N/A,Connection failed,https://ulukau.org/,Push; describe Ulukau archives
+hawaii.html,https://digitalarchives.hawaii.gov/,404,Not Found,,No change needed
+idaho.html,https://digitalatlas.cose.isu.edu/geog/agirrig/agigmain.htm,N/A,Timeout,https://www.isu.edu/digitalatlas/,Push
+idaho.html,https://librarycollections.law.umn.edu/documents/darrow/trialpdfs/Haywood_Trial.pdf,404,Not Found,https://librarycollections.law.umn.edu/darrow/trials_details.php?id=3,Push
+illinois.html,https://www.ilsos.gov/departments/archives.html,N/A,Timeout,https://www.ilsos.gov/departments/archives.html,Push
+illinois.html,https://www.ilsos.gov/departments/archives/databases.html,N/A,Timeout,https://www.ilsos.gov/departments/archives/databases.html,No change needed
+illinois.html,https://www.ilsos.gov/departments/archives/databases/blkhawk.html,N/A,Timeout,https://www.ilsos.gov/departments/archives/databases/blkhawk.html,No change needed
+illinois.html,https://www.ilsos.gov/departments/archives/online-exhibits/100-documents/1919-coroner-race-riot.html,N/A,Timeout,https://www.ilsos.gov/departments/archives/online-exhibits/100-documents/1919-coroner-race-riot.html,No change needed
+immigration.html,https://www.nypl.org/research/collections/schomburg,404,Not Found,https://www.nypl.org/locations/schomburg/research,Push
+iowa.html,https://history.iowa.gov/history/education/educator-resources/primary-source-sets,404,Not Found,https://iowa.minisisinc.com/scripts/mwimain.dll/144/PRIMARY_SOURCES/WEB_PS_SUM?COMMANDSEARCH&NOMSG=[IOWA_ROOT]no-record-primary-sources.html&EXP=%2B%2B%40,Push
+kentucky.html,https://ekufindingaids.libraryhost.com/index.php?p=collections%2Fcollections&browse=,N/A,Connection failed,,Delete
+kentucky.html,https://passtheword.khs.gov/,N/A,Connection failed,https://history.ky.gov/,Push
+labor.html,https://guides.loc.gov/labor-history,404,Not Found,https://guides.loc.gov/organized-labor,Push
+labor.html,https://rfrankllc.libraryhost.com/repositories/2,N/A,Connection failed,,Delete
+labor.html,https://rfrankllc.libraryhost.com/repositories/3,N/A,Connection failed,,Delete
+labor.html,https://www.aphsarchives.org/digital-collections,N/A,Connection failed,,Delete
+louisiana.html,https://archives.arch-no.org/sfpc,N/A,Connection failed,https://nolacatholic.org/publications,Push
+maine.html,https://www.maine.gov/sos/archives/archives-collections,404,Not Found,https://www.maine.gov/sos/archives/,Delete
+maryland.html,https://oll.libertyfund.org/pages/1649-maryland-toleration-act,404,Not Found,https://avalon.law.yale.edu/18th_century/maryland_toleration.asp,Push with Avalon Project description update
+michigan.html,https://www.thehenryford.org/collections-and-research/digital-collections/archival-collections/,404,Not Found,https://www.thehenryford.org/collections-and-research/digital-collections/,Push
+mid-atlantic.html,https://www.castlegarden.org/,N/A,Timeout,https://www.familysearch.org/en/blog/ny-castle-garden-ellis-island,Now on FamilySearch; update URL and description
+military.html,https://ahec.armywarcollege.edu/,N/A,Timeout,https://ahec.armywarcollege.edu/,No change needed
+military.html,https://www.nps.gov/vafo/learn/historyculture/publications.htm,404,Not Found,https://www.nps.gov/vafo/learn/historyculture/index.htm,Push
+mississippi.html,https://egrove.olemiss.edu/westernunion/,404,Not Found,https://egrove.olemiss.edu/west_union/,Push
+missouri.html,https://library.missouri.edu/news/resources-and-services/collection-of-key-documents-from-the-st-louis-worlds-fair-now-available,404,Not Found,https://digital.library.missouri.edu/node/188188,Push
+nevada.html,https://knowledgecenter.unr.edu/sheepherders/sheepherding.html,N/A,Connection failed,https://library.unr.edu/places/basque,Use this URL and turn into a recommendation to UNR's Jon Bilbao Basque Library
+new-jersey.html,https://nj.gov/state/historical/his-2022-lenape.shtml,404,Not found,,Delete
+new-jersey.html,https://www.njstatelib.org/research_library/new_jersey_resources/digital_collection/,404,Not Found,https://www.njstatelib.org/research_library/digital-collections/,Push
+new-mexico.html,https://www.nmhistorymuseum.org/collections/photo-archives/digital-collections.html,N/A,Timeout,,Delete
+new-york.html,https://collections.nypl.org/,N/A,Connection failed,https://digitalcollections.nypl.org/,Push
+new-york.html,https://nysl.libguides.com/eriecanal,N/A,Connection failed,https://nyslibrary.libguides.com/eriecanal,Push
+north-carolina.html,http://libcdm1.uncg.edu/cdm/search/collection/CivilRights/,N/A,Timeout,https://pages.digitalgreensboro.org/highlights/crg/,Push
+north-carolina.html,https://guides.library.duke.edu/c.php?g=1317696&p=11141549,404,Not Found,https://guides.library.duke.edu/c.php?g=1317696,Push
+north-dakota.html,https://www.history.nd.gov/archives/manuscripts/agriculture.html,404,Not Found,https://www.history.nd.gov/archives/,Delete
+north-dakota.html,https://www.history.nd.gov/archives/manuscripts/inventory/10335.html,404,Not Found,https://www.lakotasongs.com/,REPLACE with Lakota Songs URL and information
+ohio.html,https://uchistorylab.com/whda/s/whda/page/archives,404,Not Found,https://wyandotte-archive.org/,Push
+oklahoma.html,https://ncppt.nps.gov/rt66archive/oklahoma-digital-collections/,N/A,Connection failed,https://www.nps.gov/subjects/route66/,Delete
+oklahoma.html,https://www.nativeoralhistory.org/,N/A,Client error,,No change needed
+pacific.html,https://californiareveal.org/,N/A,Connection failed,https://californiarevealed.org/,"Push; ""California Revealed"" (not ""Reveal"")"
+pacific.html,https://library.berkeley.edu/ea/,N/A,Timeout,https://www.lib.berkeley.edu/visit/east-asian/collections,Push
+pacific.html,https://plateauportal.wsu.edu/,N/A,Connection failed,https://plateauportal.libraries.wsu.edu/,Push
+pacific.html,https://www.lib.berkeley.edu/libraries/bancroft-library/digital-collections,404,Not Found,https://calisphere.org/institution/4/collections/,Push
+pennsylvania.html,https://guides.loc.gov/chronicling-america-johnstown-flood-introduction,404,Not Found,https://guides.loc.gov/chronicling-america-johnstown-flood,Push
+pennsylvania.html,https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/slavery-and-underground-railroad-resources-manuscript-groups,404,Not Found,https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/slavery-and-underground-railroad-resources-record-groups,Push
+pennsylvania.html,https://www.phmc.state.pa.us/portal/communities/documents/1681-1770/default.html,404,Not Found,https://www.pa.gov/agencies/phmc/,Delete
+pennsylvania.html,https://www.phmc.state.pa.us/portal/communities/documents/default.html,404,Not Found,https://www.pa.gov/agencies/phmc/,Delete
+religious-history.html,https://oberlinarchives.libraryhost.com/index.php?p=collections/controlcard&id=85,N/A,Connection failed,,Delete
+rhode-island.html,https://archive.org/details/lettersrogerwill00will,404,Not Found,https://archive.org/details/lettersofrogerwi00will,Push
+rhode-island.html,https://usnwcarchive.org/,N/A,Connection failed,https://www.usnwcarchives.org/,Push
+rhode-island.html,https://www.loc.gov/collections/american-indians-of-the-pacific-northwest/,404,Standard 40x,,Delete
+rhode-island.html,https://www.nps.gov/blrv/learn/historyculture/slater-mill.htm,404,Not Found,https://www.nps.gov/blrv/learn/historyculture/index.htm,Delete
+south-carolina.html,https://digital.scetv.org/teachingAmerhistory/tTrove/orangeburgmassacre.htm,N/A,Timeout,https://www.scetv.org/orangeburg-massacre,Push
+southeast.html,https://www.american-south.org/,N/A,Connection failed,https://docsouth.unc.edu/,Push
+southwest.html,https://www.tsl.texas.gov/treasures/giants/cattle/page1.html,404,Not Found,,Delete
+tennessee.html,https://digitaltennesday.tnsos.gov/,N/A,Connection failed,https://teva.contentdm.oclc.org/,Push
+us-latin-america.html,https://www.cia.gov/readingroom/,N/A,Client error,https://www.cia.gov/readingroom/,No change needed
+us-latin-america.html,https://www.cia.gov/readingroom/collection/guatemala,N/A,Client error,https://www.cia.gov/readingroom/collection/guatemala,No change needed
+us-virgin-islands.html,https://uvi.sobeklibrary.com/ua,404,Not Found,https://uvildc.contentdm.oclc.org/,Push
+vermont.html,https://parks.ny.gov/historic-sites/bennington-battlefield/details.aspx,404,Not Found,https://parks.ny.gov/historic-sites/bennington-battlefield/,Delete
+vermont.html,https://vermonthistoryexplorer.org/en/,404,Not Found,https://vermonthistoryexplorer.org/,Push
+washington.html,http://ntserver1.wsulibs.wsu.edu/masc/finders/pc104.htm,N/A,Timeout,https://tricities.wsu.edu/hanfordhistory/photo-gallery/,Push
+west-virginia.html,https://www.digitallibraryofappalachia.org/,N/A,Connection failed,https://dla.contentdm.oclc.org/,Push
+west-virginia.html,https://www.libraries.psu.edu/about/collections/united-mine-workers-america-archives,404,Not Found,https://guides.libraries.psu.edu/c.php?g=443716&p=3026284,Push
+westward-expansion.html,https://calisphere.org/collections/25989/,404,Not Found,https://calisphere.org/exhibitions/t3/gold-rush/,Push
+westward-expansion.html,https://westernamericana.yale.edu/,N/A,Connection failed,https://collections.library.yale.edu/catalog?search_field=all_fields&q=western%20americana,Push
+westward-expansion.html,https://www.archives.gov/research/military/indian-wars,404,Not Found,https://www.archives.gov/research/military,Delete
+westward-expansion.html,https://www.autry.org/research,404,Not Found,https://theautry.org/research-collections,Push
+westward-expansion.html,https://www.californiahistoricalsociety.org/collections/,N/A,Timeout,https://library.stanford.edu/california-historical-society-collection-stanford,Push; is now California Historical Society at Stanford
+westward-expansion.html,https://www.isu.edu/digitalhistory/overland-trails/,404,Not Found,,Delete
+westward-expansion.html,https://www.kshs.org/p/cattle-trails-of-kansas/11643,404,Not Found,,Delete
+westward-expansion.html,https://www.newberry.org/collection/general-information,404,Not Found,https://collections.newberry.org/CS.aspx?VP3=DamView&VBID=2KXJA4UNIKSG&PN=1&WS=SearchResults,Push
+westward-expansion.html,https://www.tsl.texas.gov/treasures/giants/cattle/page1.html,404,Not Found,,Delete
+westward-expansion.html,https://www.usgs.gov/special-topics/history,404,Not Found,https://www.usgs.gov/about/organization/history,Delete
+womens-history.html,https://ecssba.rutgers.edu/,N/A,Connection failed,,Delete
+womens-history.html,https://susanbanthonyhouse.org/research-resources/,404,Not Found,https://susanbanthonyhouse.org/,Delete
+womens-history.html,https://www.archives.gov/education/lessons/title-ix,404,Not Found,https://www.docsteach.org/,Delete
+womens-history.html,https://www.womenshistory.org/resources/general/digital-collections,404,Not Found,https://www.womenshistory.org/students-educators/research-resources,Push
+womens-history.html,https://www.womenssportsfoundation.org/education/title-ix-history/,404,Not Found,,Delete

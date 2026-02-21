@@ -1,0 +1,637 @@
+{
+  "http://libcdm1.uncg.edu/cdm/search/collection/CivilRights/": {
+    "code": "000",
+    "final_url": "http://libcdm1.uncg.edu/cdm/search/collection/CivilRights/",
+    "redirect": ""
+  },
+  "http://ntserver1.wsulibs.wsu.edu/masc/finders/pc104.htm": {
+    "code": "000",
+    "final_url": "http://ntserver1.wsulibs.wsu.edu/masc/finders/pc104.htm",
+    "redirect": ""
+  },
+  "http://punawaiola.org/": {
+    "code": "000",
+    "final_url": "http://punawaiola.org/",
+    "redirect": ""
+  },
+  "http://staugustine.uflib.ufl.edu/": {
+    "code": "000",
+    "final_url": "http://staugustine.uflib.ufl.edu/",
+    "redirect": ""
+  },
+  "https://ahec.armywarcollege.edu/": {
+    "code": "000",
+    "final_url": "https://ahec.armywarcollege.edu/",
+    "redirect": ""
+  },
+  "https://alabamamosaic.org/": {
+    "code": "000",
+    "final_url": "https://alabamamosaic.org/",
+    "redirect": ""
+  },
+  "https://amache.org/": {
+    "code": "200",
+    "final_url": "https://amache.org/",
+    "redirect": ""
+  },
+  "https://archive.org/details/culinary-institute-of-america-702": {
+    "code": "404",
+    "final_url": "https://archive.org/details/culinary-institute-of-america-702",
+    "redirect": ""
+  },
+  "https://archive.org/details/lettersrogerwill00will": {
+    "code": "404",
+    "final_url": "https://archive.org/details/lettersrogerwill00will",
+    "redirect": ""
+  },
+  "https://archives.arch-no.org/sfpc": {
+    "code": "000",
+    "final_url": "https://archives.arch-no.org/sfpc",
+    "redirect": ""
+  },
+  "https://archives.delaware.gov/ratification-document/": {
+    "code": "404",
+    "final_url": "https://archives.delaware.gov/ratification-document/",
+    "redirect": ""
+  },
+  "https://californiareveal.org/": {
+    "code": "000",
+    "final_url": "https://californiareveal.org/",
+    "redirect": ""
+  },
+  "https://calisphere.org/collections/25989/": {
+    "code": "404",
+    "final_url": "https://calisphere.org/collections/25989/",
+    "redirect": ""
+  },
+  "https://chautauqua.cplorg.org/": {
+    "code": "000",
+    "final_url": "https://chautauqua.cplorg.org/",
+    "redirect": ""
+  },
+  "https://collection.baseballhall.org/": {
+    "code": "000",
+    "final_url": "https://collection.baseballhall.org/",
+    "redirect": ""
+  },
+  "https://collections.nypl.org/": {
+    "code": "000",
+    "final_url": "https://collections.nypl.org/",
+    "redirect": ""
+  },
+  "https://digital.library.okstate.edu/kappler/": {
+    "code": "000",
+    "final_url": "https://digital.library.okstate.edu/kappler/",
+    "redirect": ""
+  },
+  "https://digital.scetv.org/teachingAmerhistory/tTrove/orangeburgmassacre.htm": {
+    "code": "000",
+    "final_url": "https://digital.scetv.org/teachingAmerhistory/tTrove/orangeburgmassacre.htm",
+    "redirect": ""
+  },
+  "https://digitalarchives.hawaii.gov/": {
+    "code": "404",
+    "final_url": "https://digitalarchives.hawaii.gov/",
+    "redirect": ""
+  },
+  "https://digitalatlas.cose.isu.edu/geog/agirrig/agigmain.htm": {
+    "code": "000",
+    "final_url": "https://digitalatlas.cose.isu.edu/geog/agirrig/agigmain.htm",
+    "redirect": ""
+  },
+  "https://digitalheritage.arkansas.gov/": {
+    "code": "000",
+    "final_url": "https://digitalheritage.arkansas.gov/",
+    "redirect": ""
+  },
+  "https://digitalheritage.arkansas.gov/brough-scrapbooks/": {
+    "code": "000",
+    "final_url": "https://digitalheritage.arkansas.gov/brough-scrapbooks/",
+    "redirect": ""
+  },
+  "https://digitalheritage.arkansas.gov/exhibits-online-arkansas-territory/index.html": {
+    "code": "000",
+    "final_url": "https://digitalheritage.arkansas.gov/exhibits-online-arkansas-territory/index.html",
+    "redirect": ""
+  },
+  "https://digitalheritage.arkansas.gov/maps-collection/": {
+    "code": "000",
+    "final_url": "https://digitalheritage.arkansas.gov/maps-collection/",
+    "redirect": ""
+  },
+  "https://digitalheritage.arkansas.gov/territory-general-assembly/": {
+    "code": "000",
+    "final_url": "https://digitalheritage.arkansas.gov/territory-general-assembly/",
+    "redirect": ""
+  },
+  "https://digitaltennesday.tnsos.gov/": {
+    "code": "000",
+    "final_url": "https://digitaltennesday.tnsos.gov/",
+    "redirect": ""
+  },
+  "https://ecssba.rutgers.edu/": {
+    "code": "000",
+    "final_url": "https://ecssba.rutgers.edu/",
+    "redirect": ""
+  },
+  "https://egrove.olemiss.edu/westernunion/": {
+    "code": "404",
+    "final_url": "https://egrove.olemiss.edu/westernunion/",
+    "redirect": ""
+  },
+  "https://ekufindingaids.libraryhost.com/index.php?p=collections%2Fcollections&browse=": {
+    "code": "000",
+    "final_url": "https://ekufindingaids.libraryhost.com/index.php?p=collections%2Fcollections&browse=",
+    "redirect": ""
+  },
+  "https://exhibits.lib.buffalo.edu/s/gayliberation/page/welcome": {
+    "code": "000",
+    "final_url": "https://exhibits.lib.buffalo.edu/s/gayliberation/page/welcome",
+    "redirect": ""
+  },
+  "https://folklife.si.edu/archive": {
+    "code": "404",
+    "final_url": "https://folklife.si.edu/archive",
+    "redirect": ""
+  },
+  "https://guides.library.duke.edu/c.php?g=1317696&p=11141549": {
+    "code": "404",
+    "final_url": "https://guides.library.duke.edu/c.php?g=1317696&p=11141549",
+    "redirect": ""
+  },
+  "https://guides.loc.gov/alaska-purchase": {
+    "code": "404",
+    "final_url": "https://guides.loc.gov/alaska-purchase",
+    "redirect": ""
+  },
+  "https://guides.loc.gov/chronicling-america-johnstown-flood-introduction": {
+    "code": "404",
+    "final_url": "https://guides.loc.gov/chronicling-america-johnstown-flood-introduction",
+    "redirect": ""
+  },
+  "https://guides.loc.gov/labor-history": {
+    "code": "404",
+    "final_url": "https://guides.loc.gov/labor-history",
+    "redirect": ""
+  },
+  "https://history.iowa.gov/history/education/educator-resources/primary-source-sets": {
+    "code": "404",
+    "final_url": "https://history.iowa.gov/history/education/educator-resources/primary-source-sets",
+    "redirect": ""
+  },
+  "https://knowledgecenter.unr.edu/sheepherders/sheepherding.html": {
+    "code": "000",
+    "final_url": "https://knowledgecenter.unr.edu/sheepherders/sheepherding.html",
+    "redirect": ""
+  },
+  "https://libguides.calstatela.edu/c.php?g=1066577&p=5504356": {
+    "code": "404",
+    "final_url": "https://libguides.calstatela.edu/c.php?g=1066577&p=5504356",
+    "redirect": ""
+  },
+  "https://libguides.ctstatelibrary.org/historyday/industry": {
+    "code": "404",
+    "final_url": "https://libguides.ctstatelibrary.org/historyday/industry",
+    "redirect": ""
+  },
+  "https://library.berkeley.edu/ea/": {
+    "code": "000",
+    "final_url": "https://library.berkeley.edu/ea/",
+    "redirect": ""
+  },
+  "https://library.ccsu.edu/dighistFall16/exhibits/show/connecticut-manufacturing-duri": {
+    "code": "404",
+    "final_url": "https://library.ccsu.edu/dighistFall16/exhibits/show/connecticut-manufacturing-duri",
+    "redirect": ""
+  },
+  "https://library.louisville.edu/archives/ali": {
+    "code": "404",
+    "final_url": "https://library.louisville.edu/archives/ali",
+    "redirect": ""
+  },
+  "https://library.missouri.edu/news/resources-and-services/collection-of-key-documents-from-the-st-louis-worlds-fair-now-available": {
+    "code": "404",
+    "final_url": "https://library.missouri.edu/news/resources-and-services/collection-of-key-documents-from-the-st-louis-worlds-fair-now-available",
+    "redirect": ""
+  },
+  "https://librarycollections.law.umn.edu/documents/darrow/trialpdfs/Haywood_Trial.pdf": {
+    "code": "404",
+    "final_url": "https://librarycollections.law.umn.edu/documents/darrow/trialpdfs/Haywood_Trial.pdf",
+    "redirect": ""
+  },
+  "https://merrick.library.miami.edu/digitalprojects/chc.php": {
+    "code": "000",
+    "final_url": "https://merrick.library.miami.edu/digitalprojects/chc.php",
+    "redirect": ""
+  },
+  "https://minerva.sos.ca.gov/": {
+    "code": "000",
+    "final_url": "https://minerva.sos.ca.gov/",
+    "redirect": ""
+  },
+  "https://ncppt.nps.gov/rt66archive/oklahoma-digital-collections/": {
+    "code": "000",
+    "final_url": "https://ncppt.nps.gov/rt66archive/oklahoma-digital-collections/",
+    "redirect": ""
+  },
+  "https://nj.gov/state/historical/his-2022-lenape.shtml": {
+    "code": "404",
+    "final_url": "https://nj.gov/state/historical/his-2022-lenape.shtml",
+    "redirect": ""
+  },
+  "https://nysl.libguides.com/eriecanal": {
+    "code": "000",
+    "final_url": "https://nysl.libguides.com/eriecanal",
+    "redirect": ""
+  },
+  "https://oberlinarchives.libraryhost.com/index.php?p=collections/controlcard&id=85": {
+    "code": "000",
+    "final_url": "https://oberlinarchives.libraryhost.com/index.php?p=collections/controlcard&id=85",
+    "redirect": ""
+  },
+  "https://oll.libertyfund.org/pages/1639-fundamental-orders-of-connecticut": {
+    "code": "404",
+    "final_url": "https://oll.libertyfund.org/pages/1639-fundamental-orders-of-connecticut",
+    "redirect": ""
+  },
+  "https://oll.libertyfund.org/pages/1649-maryland-toleration-act": {
+    "code": "404",
+    "final_url": "https://oll.libertyfund.org/pages/1649-maryland-toleration-act",
+    "redirect": ""
+  },
+  "https://parks.ny.gov/historic-sites/bennington-battlefield/details.aspx": {
+    "code": "404",
+    "final_url": "https://parks.ny.gov/historic-sites/bennington-battlefield/details.aspx",
+    "redirect": ""
+  },
+  "https://passtheword.khs.gov/": {
+    "code": "000",
+    "final_url": "https://passtheword.khs.gov/",
+    "redirect": ""
+  },
+  "https://plateauportal.wsu.edu/": {
+    "code": "000",
+    "final_url": "https://plateauportal.wsu.edu/",
+    "redirect": ""
+  },
+  "https://rfrankllc.libraryhost.com/repositories/2": {
+    "code": "000",
+    "final_url": "https://rfrankllc.libraryhost.com/repositories/2",
+    "redirect": ""
+  },
+  "https://rfrankllc.libraryhost.com/repositories/3": {
+    "code": "000",
+    "final_url": "https://rfrankllc.libraryhost.com/repositories/3",
+    "redirect": ""
+  },
+  "https://rfrn.org/archive": {
+    "code": "404",
+    "final_url": "https://rfrn.org/archive",
+    "redirect": ""
+  },
+  "https://susanbanthonyhouse.org/research-resources/": {
+    "code": "404",
+    "final_url": "https://susanbanthonyhouse.org/research-resources/",
+    "redirect": ""
+  },
+  "https://transcollectionsproject.org/": {
+    "code": "000",
+    "final_url": "https://transcollectionsproject.org/",
+    "redirect": ""
+  },
+  "https://uchistorylab.com/whda/s/whda/page/archives": {
+    "code": "404",
+    "final_url": "https://uchistorylab.com/whda/s/whda/page/archives",
+    "redirect": ""
+  },
+  "https://usnwcarchive.org/": {
+    "code": "000",
+    "final_url": "https://usnwcarchive.org/",
+    "redirect": ""
+  },
+  "https://ustr.gov/about-us/policy-offices/press-office/ustr-archives": {
+    "code": "404",
+    "final_url": "https://ustr.gov/about-us/policy-offices/press-office/ustr-archives",
+    "redirect": ""
+  },
+  "https://uvi.sobeklibrary.com/ua": {
+    "code": "000",
+    "final_url": "https://uvi.sobeklibrary.com/ua",
+    "redirect": ""
+  },
+  "https://vaudevillearchiveproject.org/": {
+    "code": "000",
+    "final_url": "https://vaudevillearchiveproject.org/",
+    "redirect": ""
+  },
+  "https://vermonthistoryexplorer.org/en/": {
+    "code": "404",
+    "final_url": "https://vermonthistoryexplorer.org/en/",
+    "redirect": ""
+  },
+  "https://westernamericana.yale.edu/": {
+    "code": "000",
+    "final_url": "https://westernamericana.yale.edu/",
+    "redirect": ""
+  },
+  "https://whatamericaate.org/": {
+    "code": "000",
+    "final_url": "https://whatamericaate.org/",
+    "redirect": ""
+  },
+  "https://www.aidsmemorial.org/interactive-quilt": {
+    "code": "404",
+    "final_url": "https://www.aidsmemorial.org/interactive-quilt",
+    "redirect": ""
+  },
+  "https://www.american-south.org/": {
+    "code": "000",
+    "final_url": "https://www.american-south.org/",
+    "redirect": ""
+  },
+  "https://www.amsamoa.edu/institution/ssi.html": {
+    "code": "404",
+    "final_url": "https://www.amsamoa.edu/institution/ssi.html",
+    "redirect": ""
+  },
+  "https://www.aphsarchives.org/digital-collections": {
+    "code": "000",
+    "final_url": "https://www.aphsarchives.org/digital-collections",
+    "redirect": ""
+  },
+  "https://www.archives.gov/education/lessons/title-ix": {
+    "code": "404",
+    "final_url": "https://www.archives.gov/education/lessons/title-ix",
+    "redirect": ""
+  },
+  "https://www.archives.gov/milestone-documents/indian-removal-act": {
+    "code": "404",
+    "final_url": "https://www.archives.gov/milestone-documents/indian-removal-act",
+    "redirect": ""
+  },
+  "https://www.archives.gov/research/cartographic-and-architectural-records": {
+    "code": "404",
+    "final_url": "https://www.archives.gov/research/cartographic-and-architectural-records",
+    "redirect": ""
+  },
+  "https://www.archives.gov/research/military/indian-wars": {
+    "code": "404",
+    "final_url": "https://www.archives.gov/research/military/indian-wars",
+    "redirect": ""
+  },
+  "https://www.archives.gov/research/military/ww2/ration-books": {
+    "code": "404",
+    "final_url": "https://www.archives.gov/research/military/ww2/ration-books",
+    "redirect": ""
+  },
+  "https://www.autry.org/research": {
+    "code": "405",
+    "final_url": "https://www.autry.org/research",
+    "redirect": ""
+  },
+  "https://www.californiahistoricalsociety.org/collections/": {
+    "code": "000",
+    "final_url": "https://www.californiahistoricalsociety.org/collections/",
+    "redirect": ""
+  },
+  "https://www.castlegarden.org/": {
+    "code": "000",
+    "final_url": "https://www.castlegarden.org/",
+    "redirect": ""
+  },
+  "https://www.cia.gov/readingroom/": {
+    "code": "302",
+    "final_url": "https://www.cia.gov/readingroom",
+    "redirect": "https://www.cia.gov/readingroom"
+  },
+  "https://www.cia.gov/readingroom/collection/guatemala": {
+    "code": "302",
+    "final_url": "https://www.cia.gov/readingroom",
+    "redirect": "https://www.cia.gov/readingroom"
+  },
+  "https://www.circushistory.org/public/research.php": {
+    "code": "404",
+    "final_url": "https://circushistory.org/public/research.php",
+    "redirect": ""
+  },
+  "https://www.digitallibraryofappalachia.org/": {
+    "code": "000",
+    "final_url": "https://www.digitallibraryofappalachia.org/",
+    "redirect": ""
+  },
+  "https://www.glbthistory.org/screaming-queens": {
+    "code": "404",
+    "final_url": "https://www.glbthistory.org/screaming-queens",
+    "redirect": ""
+  },
+  "https://www.history.nd.gov/archives/manuscripts/agriculture.html": {
+    "code": "404",
+    "final_url": "https://www.history.nd.gov/archives/manuscripts/agriculture.html",
+    "redirect": ""
+  },
+  "https://www.history.nd.gov/archives/manuscripts/inventory/10335.html": {
+    "code": "404",
+    "final_url": "https://www.history.nd.gov/archives/manuscripts/inventory/10335.html",
+    "redirect": ""
+  },
+  "https://www.ilsos.gov/departments/archives.html": {
+    "code": "000",
+    "final_url": "https://www.ilsos.gov/departments/archives.html",
+    "redirect": ""
+  },
+  "https://www.ilsos.gov/departments/archives/databases.html": {
+    "code": "000",
+    "final_url": "https://www.ilsos.gov/departments/archives/databases.html",
+    "redirect": ""
+  },
+  "https://www.ilsos.gov/departments/archives/databases/blkhawk.html": {
+    "code": "000",
+    "final_url": "https://www.ilsos.gov/departments/archives/databases/blkhawk.html",
+    "redirect": ""
+  },
+  "https://www.ilsos.gov/departments/archives/online-exhibits/100-documents/1919-coroner-race-riot.html": {
+    "code": "000",
+    "final_url": "https://www.ilsos.gov/departments/archives/online-exhibits/100-documents/1919-coroner-race-riot.html",
+    "redirect": ""
+  },
+  "https://www.isu.edu/digitalhistory/overland-trails/": {
+    "code": "404",
+    "final_url": "https://www.isu.edu/digitalhistory/overland-trails/",
+    "redirect": ""
+  },
+  "https://www.kshs.org/p/cattle-trails-of-kansas/11643": {
+    "code": "404",
+    "final_url": "https://www.kansashistory.gov:443/p/cattle-trails-of-kansas/11643",
+    "redirect": ""
+  },
+  "https://www.lib.berkeley.edu/libraries/bancroft-library/digital-collections": {
+    "code": "404",
+    "final_url": "https://www.lib.berkeley.edu/libraries/bancroft-library/digital-collections",
+    "redirect": ""
+  },
+  "https://www.lib.umich.edu/collections/collecting-areas/special-collections-research-center/janice-bluestein-longone-culinary": {
+    "code": "404",
+    "final_url": "https://www.lib.umich.edu/collections/collecting-areas/special-collections-research-center/janice-bluestein-longone-culinary",
+    "redirect": ""
+  },
+  "https://www.libraries.psu.edu/about/collections/united-mine-workers-america-archives": {
+    "code": "404",
+    "final_url": "https://www.libraries.psu.edu/about/collections/united-mine-workers-america-archives",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/aids-education-posters/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/aids-education-posters/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/american-indians-of-the-pacific-northwest/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/american-indians-of-the-pacific-northwest/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/american-variety-stage-vaudeville-and-popular-entertainment-1870-to-1920/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/american-variety-stage-vaudeville-and-popular-entertainment-1870-to-1920/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/born-in-slavery-slave-narratives-from-the-federal-writers-project-1936-to-1938/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/born-in-slavery-slave-narratives-from-the-federal-writers-project-1936-to-1938/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/early-motion-pictures-1897-to-1920/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/early-motion-pictures-1897-to-1920/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/historic-american-sheet-music/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/historic-american-sheet-music/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/independent-voices/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/independent-voices/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/maps/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/maps/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/selected-civil-war-photographs/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/selected-civil-war-photographs/",
+    "redirect": ""
+  },
+  "https://www.loc.gov/collections/world-fairs-at-the-library-of-congress/": {
+    "code": "429",
+    "final_url": "https://www.loc.gov/collections/world-fairs-at-the-library-of-congress/",
+    "redirect": ""
+  },
+  "https://www.maine.gov/sos/archives/archives-collections": {
+    "code": "404",
+    "final_url": "https://www.maine.gov/sos/archives/archives-collections",
+    "redirect": ""
+  },
+  "https://www.nal.usda.gov/collections/exhibits/george-washington-carver": {
+    "code": "404",
+    "final_url": "https://www.nal.usda.gov/collections/exhibits/george-washington-carver",
+    "redirect": ""
+  },
+  "https://www.nal.usda.gov/collections/exhibits/three-sisters": {
+    "code": "404",
+    "final_url": "https://www.nal.usda.gov/collections/exhibits/three-sisters",
+    "redirect": ""
+  },
+  "https://www.nativeoralhistory.org/": {
+    "code": "200",
+    "final_url": "https://www.nativeoralhistory.org/",
+    "redirect": ""
+  },
+  "https://www.newberry.org/collection/general-information": {
+    "code": "404",
+    "final_url": "https://www.newberry.org/collection/general-information",
+    "redirect": ""
+  },
+  "https://www.njstatelib.org/research_library/new_jersey_resources/digital_collection/": {
+    "code": "404",
+    "final_url": "https://www.njstatelib.org/research_library/new_jersey_resources/digital_collection/",
+    "redirect": ""
+  },
+  "https://www.nmhistorymuseum.org/collections/photo-archives/digital-collections.html": {
+    "code": "000",
+    "final_url": "https://www.nmhistorymuseum.org/collections/photo-archives/digital-collections.html",
+    "redirect": ""
+  },
+  "https://www.nps.gov/articles/the-battle-of-prairie-grove-civilian-recollections-of-the-civil-war-teaching-with-primary-sources.htm": {
+    "code": "404",
+    "final_url": "https://www.nps.gov/articles/the-battle-of-prairie-grove-civilian-recollections-of-the-civil-war-teaching-with-primary-sources.htm",
+    "redirect": ""
+  },
+  "https://www.nps.gov/blrv/learn/historyculture/slater-mill.htm": {
+    "code": "404",
+    "final_url": "https://www.nps.gov/blrv/learn/historyculture/slater-mill.htm",
+    "redirect": ""
+  },
+  "https://www.nps.gov/ston/learn/historyculture/index.htm": {
+    "code": "404",
+    "final_url": "https://www.nps.gov/ston/learn/historyculture/index.htm",
+    "redirect": ""
+  },
+  "https://www.nps.gov/vafo/learn/historyculture/publications.htm": {
+    "code": "404",
+    "final_url": "https://www.nps.gov/vafo/learn/historyculture/publications.htm",
+    "redirect": ""
+  },
+  "https://www.nypl.org/research/collections/schomburg": {
+    "code": "404",
+    "final_url": "https://www.nypl.org/research/collections/schomburg",
+    "redirect": ""
+  },
+  "https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/slavery-and-underground-railroad-resources-manuscript-groups": {
+    "code": "404",
+    "final_url": "https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/slavery-and-underground-railroad-resources-manuscript-groups",
+    "redirect": ""
+  },
+  "https://www.phmc.state.pa.us/portal/communities/documents/1681-1770/default.html": {
+    "code": "404",
+    "final_url": "https://www.phmc.state.pa.us/portal/communities/documents/1681-1770/default.html",
+    "redirect": ""
+  },
+  "https://www.phmc.state.pa.us/portal/communities/documents/default.html": {
+    "code": "404",
+    "final_url": "https://www.phmc.state.pa.us/portal/communities/documents/default.html",
+    "redirect": ""
+  },
+  "https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf": {
+    "code": "404",
+    "final_url": "https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf",
+    "redirect": ""
+  },
+  "https://www.thehenryford.org/collections-and-research/digital-collections/archival-collections/": {
+    "code": "404",
+    "final_url": "https://www.thehenryford.org/collections/digital-collections/archival-collections",
+    "redirect": ""
+  },
+  "https://www.tsl.texas.gov/treasures/giants/cattle/page1.html": {
+    "code": "404",
+    "final_url": "https://www.tsl.texas.gov/treasures/giants/cattle/page1.html",
+    "redirect": ""
+  },
+  "https://www.usgs.gov/special-topics/history": {
+    "code": "404",
+    "final_url": "https://www.usgs.gov/special-topics/history",
+    "redirect": ""
+  },
+  "https://www.womenshistory.org/resources/general/digital-collections": {
+    "code": "404",
+    "final_url": "https://www.womenshistory.org/resources/general/digital-collections",
+    "redirect": ""
+  },
+  "https://www.womenssportsfoundation.org/education/title-ix-history/": {
+    "code": "404",
+    "final_url": "https://www.womenssportsfoundation.org/education/title-ix-history/",
+    "redirect": ""
+  }
+}

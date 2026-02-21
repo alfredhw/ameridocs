@@ -1,0 +1,131 @@
+page,url,status,reason
+alabama.html,https://alabamamosaic.org/,N/A,Connection failed
+alaska.html,https://guides.loc.gov/alaska-purchase,404,Not Found
+american-samoa.html,https://www.amsamoa.edu/institution/ssi.html,404,Not Found
+arkansas.html,https://digitalheritage.arkansas.gov/,N/A,Connection failed
+arkansas.html,https://digitalheritage.arkansas.gov/brough-scrapbooks/,N/A,Connection failed
+arkansas.html,https://digitalheritage.arkansas.gov/exhibits-online-arkansas-territory/index.html,N/A,Connection failed
+arkansas.html,https://digitalheritage.arkansas.gov/maps-collection/,N/A,Connection failed
+arkansas.html,https://digitalheritage.arkansas.gov/territory-general-assembly/,N/A,Connection failed
+arkansas.html,https://www.nps.gov/articles/the-battle-of-prairie-grove-civilian-recollections-of-the-civil-war-teaching-with-primary-sources.htm,404,Not Found
+asian-american.html,https://library.berkeley.edu/ea/,N/A,Timeout
+california.html,https://libguides.calstatela.edu/c.php?g=1066577&p=5504356,404,Not Found
+california.html,https://minerva.sos.ca.gov/,N/A,Connection failed
+colorado.html,https://amache.org/,N/A,"Client error: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://amache.org/'"
+connecticut.html,https://libguides.ctstatelibrary.org/historyday/industry,404,Not Found
+connecticut.html,https://library.ccsu.edu/dighistFall16/exhibits/show/connecticut-manufacturing-duri,404,Not Found
+connecticut.html,https://oll.libertyfund.org/pages/1639-fundamental-orders-of-connecticut,404,Not Found
+delaware.html,https://archives.delaware.gov/ratification-document/,404,Not Found
+economic-history.html,https://ustr.gov/about-us/policy-offices/press-office/ustr-archives,404,Not Found
+entertainment-sports.html,https://chautauqua.cplorg.org/,N/A,Connection failed
+entertainment-sports.html,https://collection.baseballhall.org/,N/A,Timeout
+entertainment-sports.html,https://library.louisville.edu/archives/ali,404,Not Found
+entertainment-sports.html,https://rfrn.org/archive,404,Not Found
+entertainment-sports.html,https://vaudevillearchiveproject.org/,N/A,Connection failed
+entertainment-sports.html,https://www.circushistory.org/public/research.php,404,Not Found
+entertainment-sports.html,https://www.loc.gov/collections/american-variety-stage-vaudeville-and-popular-entertainment-1870-to-1920/,404,Standard 40x
+entertainment-sports.html,https://www.loc.gov/collections/early-motion-pictures-1897-to-1920/,404,Standard 40x
+entertainment-sports.html,https://www.loc.gov/collections/historic-american-sheet-music/,404,Standard 40x
+entertainment-sports.html,https://www.loc.gov/collections/world-fairs-at-the-library-of-congress/,404,Standard 40x
+federal.html,https://digital.library.okstate.edu/kappler/,N/A,Connection failed
+federal.html,https://www.archives.gov/research/cartographic-and-architectural-records,404,Not Found
+federal.html,https://www.loc.gov/collections/born-in-slavery-slave-narratives-from-the-federal-writers-project-1936-to-1938/,404,Standard 40x
+federal.html,https://www.loc.gov/collections/maps/,404,Standard 40x
+federal.html,https://www.loc.gov/collections/selected-civil-war-photographs/,404,Standard 40x
+florida.html,http://staugustine.uflib.ufl.edu/,N/A,Connection failed
+florida.html,https://merrick.library.miami.edu/digitalprojects/chc.php,N/A,Timeout
+foodways.html,https://archive.org/details/culinary-institute-of-america-702,404,Not Found
+foodways.html,https://folklife.si.edu/archive,404,Not Found
+foodways.html,https://whatamericaate.org/,N/A,Connection failed
+foodways.html,https://www.archives.gov/research/military/ww2/ration-books,404,Not Found
+foodways.html,https://www.lib.umich.edu/collections/collecting-areas/special-collections-research-center/janice-bluestein-longone-culinary,404,Not Found
+foodways.html,https://www.nal.usda.gov/collections/exhibits/george-washington-carver,N/A,"Client error: 400, message='Got more than 8190 bytes (10436) when reading Header value is too long.', url='https://www.nal.usda.gov/collections/exhibits/george-washington-carver'"
+foodways.html,https://www.nal.usda.gov/collections/exhibits/three-sisters,N/A,"Client error: 400, message='Got more than 8190 bytes (10436) when reading Header value is too long.', url='https://www.nal.usda.gov/collections/exhibits/three-sisters'"
+gender-sexuality.html,https://exhibits.lib.buffalo.edu/s/gayliberation/page/welcome,N/A,Connection failed
+gender-sexuality.html,https://transcollectionsproject.org/,N/A,Connection failed
+gender-sexuality.html,https://www.aidsmemorial.org/interactive-quilt,404,Not Found
+gender-sexuality.html,https://www.glbthistory.org/screaming-queens,404,Not Found
+gender-sexuality.html,https://www.loc.gov/collections/aids-education-posters/,404,Standard 40x
+gender-sexuality.html,https://www.loc.gov/collections/independent-voices/,404,Standard 40x
+gender-sexuality.html,https://www.nps.gov/ston/learn/historyculture/index.htm,404,Not Found
+gender-sexuality.html,https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf,404,Not Found
+georgia.html,https://www.archives.gov/milestone-documents/indian-removal-act,404,Not Found
+great-plains.html,https://www.kshs.org/p/cattle-trails-of-kansas/11643,404,Not Found
+hawaii.html,http://punawaiola.org/,N/A,Connection failed
+hawaii.html,https://digitalarchives.hawaii.gov/,404,Not Found
+idaho.html,https://digitalatlas.cose.isu.edu/geog/agirrig/agigmain.htm,N/A,Timeout
+idaho.html,https://librarycollections.law.umn.edu/documents/darrow/trialpdfs/Haywood_Trial.pdf,404,Not Found
+illinois.html,https://www.ilsos.gov/departments/archives.html,N/A,Timeout
+illinois.html,https://www.ilsos.gov/departments/archives/databases.html,N/A,Timeout
+illinois.html,https://www.ilsos.gov/departments/archives/databases/blkhawk.html,N/A,Timeout
+illinois.html,https://www.ilsos.gov/departments/archives/online-exhibits/100-documents/1919-coroner-race-riot.html,N/A,Timeout
+immigration.html,https://www.nypl.org/research/collections/schomburg,404,Not Found
+iowa.html,https://history.iowa.gov/history/education/educator-resources/primary-source-sets,404,Not Found
+kentucky.html,https://ekufindingaids.libraryhost.com/index.php?p=collections%2Fcollections&browse=,N/A,Connection failed
+kentucky.html,https://passtheword.khs.gov/,N/A,Connection failed
+labor.html,https://guides.loc.gov/labor-history,404,Not Found
+labor.html,https://rfrankllc.libraryhost.com/repositories/2,N/A,Connection failed
+labor.html,https://rfrankllc.libraryhost.com/repositories/3,N/A,Connection failed
+labor.html,https://www.aphsarchives.org/digital-collections,N/A,Connection failed
+louisiana.html,https://archives.arch-no.org/sfpc,N/A,Connection failed
+maine.html,https://www.maine.gov/sos/archives/archives-collections,404,Not Found
+maryland.html,https://oll.libertyfund.org/pages/1649-maryland-toleration-act,404,Not Found
+michigan.html,https://www.thehenryford.org/collections-and-research/digital-collections/archival-collections/,404,Not Found
+mid-atlantic.html,https://www.castlegarden.org/,N/A,Timeout
+military.html,https://ahec.armywarcollege.edu/,N/A,Timeout
+military.html,https://www.nps.gov/vafo/learn/historyculture/publications.htm,404,Not Found
+mississippi.html,https://egrove.olemiss.edu/westernunion/,404,Not Found
+missouri.html,https://library.missouri.edu/news/resources-and-services/collection-of-key-documents-from-the-st-louis-worlds-fair-now-available,404,Not Found
+nevada.html,https://knowledgecenter.unr.edu/sheepherders/sheepherding.html,N/A,Connection failed
+new-jersey.html,https://nj.gov/state/historical/his-2022-lenape.shtml,404,Not found
+new-jersey.html,https://www.njstatelib.org/research_library/new_jersey_resources/digital_collection/,404,Not Found
+new-mexico.html,https://www.nmhistorymuseum.org/collections/photo-archives/digital-collections.html,N/A,Timeout
+new-york.html,https://collections.nypl.org/,N/A,Connection failed
+new-york.html,https://nysl.libguides.com/eriecanal,N/A,Connection failed
+north-carolina.html,http://libcdm1.uncg.edu/cdm/search/collection/CivilRights/,N/A,Timeout
+north-carolina.html,https://guides.library.duke.edu/c.php?g=1317696&p=11141549,404,Not Found
+north-dakota.html,https://www.history.nd.gov/archives/manuscripts/agriculture.html,404,Not Found
+north-dakota.html,https://www.history.nd.gov/archives/manuscripts/inventory/10335.html,404,Not Found
+ohio.html,https://uchistorylab.com/whda/s/whda/page/archives,404,Not Found
+oklahoma.html,https://ncppt.nps.gov/rt66archive/oklahoma-digital-collections/,N/A,Connection failed
+oklahoma.html,https://www.nativeoralhistory.org/,N/A,Client error: Server disconnected
+pacific.html,https://californiareveal.org/,N/A,Connection failed
+pacific.html,https://library.berkeley.edu/ea/,N/A,Timeout
+pacific.html,https://plateauportal.wsu.edu/,N/A,Connection failed
+pacific.html,https://www.lib.berkeley.edu/libraries/bancroft-library/digital-collections,404,Not Found
+pennsylvania.html,https://guides.loc.gov/chronicling-america-johnstown-flood-introduction,404,Not Found
+pennsylvania.html,https://www.pa.gov/agencies/phmc/pa-state-archives/research-online/research-guides/slavery-and-underground-railroad-resources-manuscript-groups,404,Not Found
+pennsylvania.html,https://www.phmc.state.pa.us/portal/communities/documents/1681-1770/default.html,404,Not Found
+pennsylvania.html,https://www.phmc.state.pa.us/portal/communities/documents/default.html,404,Not Found
+religious-history.html,https://oberlinarchives.libraryhost.com/index.php?p=collections/controlcard&id=85,N/A,Connection failed
+rhode-island.html,https://archive.org/details/lettersrogerwill00will,404,Not Found
+rhode-island.html,https://usnwcarchive.org/,N/A,Connection failed
+rhode-island.html,https://www.loc.gov/collections/american-indians-of-the-pacific-northwest/,404,Standard 40x
+rhode-island.html,https://www.nps.gov/blrv/learn/historyculture/slater-mill.htm,404,Not Found
+south-carolina.html,https://digital.scetv.org/teachingAmerhistory/tTrove/orangeburgmassacre.htm,N/A,Timeout
+southeast.html,https://www.american-south.org/,N/A,Connection failed
+southwest.html,https://www.tsl.texas.gov/treasures/giants/cattle/page1.html,404,Not Found
+tennessee.html,https://digitaltennesday.tnsos.gov/,N/A,Connection failed
+us-latin-america.html,https://www.cia.gov/readingroom/,N/A,"Client error: 0, message='', url='https://www.cia.gov/readingroom/'"
+us-latin-america.html,https://www.cia.gov/readingroom/collection/guatemala,N/A,"Client error: 0, message='', url='https://www.cia.gov/readingroom/collection/guatemala'"
+us-virgin-islands.html,https://uvi.sobeklibrary.com/ua,404,Not Found
+vermont.html,https://parks.ny.gov/historic-sites/bennington-battlefield/details.aspx,404,Not Found
+vermont.html,https://vermonthistoryexplorer.org/en/,404,Not Found
+washington.html,http://ntserver1.wsulibs.wsu.edu/masc/finders/pc104.htm,N/A,Timeout
+west-virginia.html,https://www.digitallibraryofappalachia.org/,N/A,Connection failed
+west-virginia.html,https://www.libraries.psu.edu/about/collections/united-mine-workers-america-archives,404,Not Found
+westward-expansion.html,https://calisphere.org/collections/25989/,404,Not Found
+westward-expansion.html,https://westernamericana.yale.edu/,N/A,Connection failed
+westward-expansion.html,https://www.archives.gov/research/military/indian-wars,404,Not Found
+westward-expansion.html,https://www.autry.org/research,404,Not Found
+westward-expansion.html,https://www.californiahistoricalsociety.org/collections/,N/A,Timeout
+westward-expansion.html,https://www.isu.edu/digitalhistory/overland-trails/,404,Not Found
+westward-expansion.html,https://www.kshs.org/p/cattle-trails-of-kansas/11643,404,Not Found
+westward-expansion.html,https://www.newberry.org/collection/general-information,404,Not Found
+westward-expansion.html,https://www.tsl.texas.gov/treasures/giants/cattle/page1.html,404,Not Found
+westward-expansion.html,https://www.usgs.gov/special-topics/history,404,Not Found
+womens-history.html,https://ecssba.rutgers.edu/,N/A,Connection failed
+womens-history.html,https://susanbanthonyhouse.org/research-resources/,404,Not Found
+womens-history.html,https://www.archives.gov/education/lessons/title-ix,404,Not Found
+womens-history.html,https://www.womenshistory.org/resources/general/digital-collections,404,Not Found
+womens-history.html,https://www.womenssportsfoundation.org/education/title-ix-history/,404,Not Found
